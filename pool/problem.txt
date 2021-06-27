@@ -1,0 +1,7 @@
+diameter: 144 inches
+height: 30 inches
+
+How many gallons will be in the pool if we only fill it 90% full?
+
+How much pool shock will we need, if a 12,000 gallon pool needs 453 grams of pool shock?
+
